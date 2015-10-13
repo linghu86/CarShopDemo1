@@ -1,0 +1,27 @@
+{
+  "name": "carshopdemo1",
+  "version": "1.0.0",
+  "description": "CarShopDemo1 2015-10-13",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linghu86/CarShopDemo1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linghu86/CarShopDemo1/issues"
+  },
+  "homepage": "https://github.com/linghu86/CarShopDemo1",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "moment": "^2.10.6",
+    "mongoose": "^4.1.10",
+    "underscore": "^1.8.3"
+  }
+}
